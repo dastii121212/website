@@ -1,0 +1,122 @@
+body {
+    background-image: url("background.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid black;
+    padding: 20px; 20px 20px 20px
+    background-color: rgba(255, 255, 255, 0.255); 
+}
+.head h1 {
+    font: 30px bolder;
+    text-align: center;
+    color: black;
+    font-family: Arial;
+}
+.head img {
+    width: 150px;
+    height: 150px;
+    border: 3px solid black;
+    padding: 3px;
+    border-radius: 100%;
+    box-shadow: 0 15px 20px 0 rgba(0, 0, 0, 0.25); 
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+.head a h2 {
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    border-radius: 8px;
+    font-family: Arial;
+}
+a h2:hover{
+    border: 2px solid whitesmoke;
+    color: white;
+    text-decoration: none;
+    background-color: black;
+    border-radius: 3px;
+}
+.Self.intro h3 { 
+    text-align: left;
+    color: whitesmoke;
+    border: 3px transparent;
+    background-color: black;
+}
+
+.Self.intro p {
+    text-align: center;
+    color: black;
+    font-family: Arial;
+}
+
+.Educational h4 {
+    font-family: Arial; 
+    color: whitess;
+    background-color: black;
+}
+
+.Educational hr {
+    margin-top: 5px;
+}
+
+.Educational thead {
+    background-color: black;
+    color: white;
+    font-family: Arial; 
+}
+
+.Educational tbody {
+    color: black;
+    font-family: Arial; 
+}
+.Educational table {
+    border-collapse: collapse;
+    width: 100%;
+}
+.Educational table th{
+    border: 1px solid green;
+    padding: 8px;
+}
+.Educational table td{
+    border: 1px solid green;
+    padding: 8px;
+}
+.Expertise h3 {
+    text-align: left;
+    color: black;
+    border: transparent;
+    background-color: dirty white;
+    font-family: Arial; 
+}
+
+.Expertise ul {
+    color: solid red;
+    font-family: Arial; 
+    list-style-type: square;
+}
+
+.IT-Background h4 {
+    color: black;
+    font-family: Arial; 
+    border: 2px transparent;
+    background-color: black;
+}
+
+.IT-Background p {
+    color: black;
+    font-family: Arial; 
+}
+
+.Applications h4 { 
+    color: Limegreen;
+    font-family: Arial; 
+    border: 2px transparent;
+    background-color: black;
+}
+
+.Applications ul {
+    color: black;
+    font-family: Arial; 
+}
